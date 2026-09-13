@@ -73,4 +73,4 @@ All three strategies share one prompt scaffold and decoding configuration, so an
 
 ## Setup
 
-No `requirements.txt`; dependencies are listed in `setup_a100.sh` / `setup_h100.sh` (vLLM 0.6.6, PyTorch 2.5.1, transformers 4.46.3). Generation was run on A100/H100 GPU instances.
+No `requirements.txt`; dependencies are listed in `setup_a100.sh` (vLLM 0.6.6, PyTorch 2.5.1, transformers 4.46.3). Generation was run on an A100 GPU instance.
