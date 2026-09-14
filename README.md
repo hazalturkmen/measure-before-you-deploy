@@ -1,6 +1,6 @@
 # Measure Before You Deploy: Demonstration Sensitivity and Output Stability of Small Language Models in Clinical Text Generation
 
-Code and evaluation notebooks for the paper *"Measure Before You Deploy: Demonstration Sensitivity and Output Stability of Small Language Models in Clinical Text Generation"* (hazalturkmen91, August 2026).
+Code and evaluation notebooks for the paper *"Measure Before You Deploy: Demonstration Sensitivity and Output Stability of Small Language Models in Clinical Text Generation"* (hazalturkmen, August 2026).
 
 ## Abstract
 
