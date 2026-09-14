@@ -69,7 +69,6 @@ All three strategies share one prompt scaffold and decoding configuration, so an
 5. **`s3_nli_consistency.ipynb`** — NLI-based output consistency (S3) for the random-draw axis.
 6. **`s3_dynamic_nli_consistency.ipynb`** — NLI-based output consistency (S3) for the retriever axis.
 
-`s2_bert_consistency.ipynb` is **dropped/unused** — an earlier consistency-scoring approach superseded by the NLI-based S3 method.
 
 ## Setup
 
